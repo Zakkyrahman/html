@@ -1,3 +1,23 @@
 body{
     background-color: aquamarine;
 }
+
+img{
+    width: 200px;
+}
+
+/* nav {
+    margin-left: 200px;
+} */
+
+.batas {
+    margin-left: 200px;
+}
+
+.warna {
+    background-color: bisque;
+}
+
+#background {
+    background-color: bisque;
+}
