@@ -8,6 +8,15 @@
     margin: auto;
 }
 
+li:hover {
+    background-color: blueviolet;
+}
+
+p::first-letter {
+    color: blueviolet;
+    font-size: xx-large;
+}
+
 .display {
     display: inline-block;
     padding: 1%;
